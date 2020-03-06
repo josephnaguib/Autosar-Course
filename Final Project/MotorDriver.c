@@ -1,9 +1,7 @@
 #include "motorDriver.h"
 void Init_motordriver(){
-Port_Init(GPIOF);
-Port_SetPinDirection(Dio_Channel_F0,PORT_PIN_OUT);
-Port_SetPinDirection(Dio_Channel_F1,PORT_PIN_OUT);
-Port_SetPinDirection(Dio_Channel_F2,PORT_PIN_OUT);
+Port_Init(&Config);
+
 Dio_WriteChannel(Dio_Channel_F0,STD_high);
 }
 void Motor_ONN(){

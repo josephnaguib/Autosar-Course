@@ -377,7 +377,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath></IncludePath>
+              <IncludePath>..\Final Project</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -424,22 +424,22 @@
             <File>
               <FileName>dio.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\Autosar-master\Arm\DIO\dio.c</FilePath>
+              <FilePath>C:\Users\mnaguib\Desktop\Embedded\firstrepo\Final Project\dio.c</FilePath>
             </File>
             <File>
               <FileName>dio_cfg.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\Autosar-master\Arm\DIO\dio_cfg.c</FilePath>
+              <FilePath>C:\Users\mnaguib\Desktop\Embedded\firstrepo\Final Project\dio_cfg.c</FilePath>
             </File>
             <File>
               <FileName>port.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\Autosar-master\Arm\PORT\port.c</FilePath>
+              <FilePath>C:\Users\mnaguib\Desktop\Embedded\firstrepo\Final Project\port.c</FilePath>
             </File>
             <File>
               <FileName>startup_rvmdk.S</FileName>
               <FileType>2</FileType>
-              <FilePath>..\CAN_Slave\startup_rvmdk.S</FilePath>
+              <FilePath>C:\Users\mnaguib\Desktop\Embedded\firstrepo\Final Project\startup_rvmdk.S</FilePath>
             </File>
             <File>
               <FileName>MotorDriver.c</FileName>
@@ -449,32 +449,32 @@
             <File>
               <FileName>port.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\Autosar-master\Arm\PORT\port.h</FilePath>
+              <FilePath>C:\Users\mnaguib\Desktop\Embedded\firstrepo\Final Project\port.h</FilePath>
             </File>
             <File>
               <FileName>dio.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\Autosar-master\Arm\DIO\dio.h</FilePath>
+              <FilePath>C:\Users\mnaguib\Desktop\Embedded\firstrepo\Final Project\dio.h</FilePath>
             </File>
             <File>
               <FileName>port_types.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\Autosar-master\Arm\PORT\port_types.h</FilePath>
+              <FilePath>C:\Users\mnaguib\Desktop\Embedded\firstrepo\Final Project\port_types.h</FilePath>
             </File>
             <File>
               <FileName>bit_math.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\Autosar-master\Arm\PORT\bit_math.h</FilePath>
+              <FilePath>C:\Users\mnaguib\Desktop\Embedded\firstrepo\Final Project\bit_math.h</FilePath>
             </File>
             <File>
               <FileName>STD_Types.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\Autosar-master\Arm\PORT\STD_Types.h</FilePath>
+              <FilePath>C:\Users\mnaguib\Desktop\Embedded\firstrepo\Final Project\STD_Types.h</FilePath>
             </File>
             <File>
               <FileName>dio_types.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\Autosar-master\Arm\DIO\dio_types.h</FilePath>
+              <FilePath>C:\Users\mnaguib\Desktop\Embedded\firstrepo\Final Project\dio_types.h</FilePath>
             </File>
             <File>
               <FileName>main.c</FileName>

@@ -1,7 +1,7 @@
 #include "motorDriver.h"
 
 int main(){
-	uint8 Status=1;
+	uint8 Status=0;
 			Init_motordriver();
 
 	while(1){
